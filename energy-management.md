@@ -11,7 +11,7 @@ Taking a long walk and doing exercise. These activities help me avoid overthinki
 I find myself getting into the Stress quadrant when I overthink situations, worry too much about the future, or put too much pressure on myself. I also feel stressed when things don’t go as planned or when I have too many things to deal with at the same time.
 
 
-# Question 2: How do you understand if you are in the Excitement quadrant?
+# Question 3: How do you understand if you are in the Excitement quadrant?
 
 I understand that I am in the Excitement quadrant when everything goes as planned. I feel happy, motivated, and positive about what I am doing.
 
