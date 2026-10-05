@@ -2,33 +2,32 @@
 
 ### Question 1: What is Deep Work?
 
-- Deep Work means **working with complete focus without distractions**.
+- Deep Work means **working with full concentration without getting distracted**.
 - It means focusing on **one important task at a time**.
-- It helps you **learn faster and produce better work**.
-- Examples include **studying, coding, or solving a difficult problem** without checking your phone.
-- In simple words, **Deep Work is focused and distraction-free work**.
+- It helps us **learn things faster and do better work**.
+- For example, studying or coding without checking your phone is a form of deep work.
+- In simple words, **it is giving your full attention to the work you are doing**.
 
 ### Question 2: How to do Deep Work properly?
 
-- Choose **one important task** and focus only on it.
-- Remove distractions like **phone, social media, and notifications**.
-- Set a **fixed time and place** for deep work.
-- Work with **full concentration** and avoid multitasking.
-- Take proper breaks and **review your progress**.
+- Start with **one important task** and give it your full attention.
+- Keep distractions like your **phone and social media away**.
+- Decide a **fixed time and place** for doing focused work.
+- Try not to **switch between different tasks** while working.
+- Take short breaks and **check what you have completed**.
 
 ### Question 3: How can you implement Deep Work in daily life?
 
-- Set aside **1–2 hours daily** for focused work or study.
-- Keep your **phone away** and turn off unnecessary notifications.
-- Make a **daily priority list** and finish important tasks first.
-- Avoid constantly checking **social media, emails, or messages**.
-- Follow a consistent routine so deep work becomes a **daily habit**.
-
+- Keep **1–2 hours every day** for studying or important work.
+- Put your **phone away** and turn off unnecessary notifications.
+- Make a **small list of important tasks** for the day.
+- Avoid checking **social media and messages again and again** while working.
+- Follow the same routine regularly so **focused work becomes a habit**.
 
 ### Question 4: What are the dangers of social media?
 
-- It can **reduce our concentration** and make it harder to focus.
-- It can become **addictive**, causing us to waste time.
-- It encourages **constant distraction** through notifications and updates.
-- It can negatively affect **productivity and mental well-being**.
-- It may reduce our ability to do **deep, focused work**.
+- Social media can make it **harder to concentrate** on important work.
+- It can become a **habit that wastes a lot of time**.
+- Constant notifications can **keep distracting us**.
+- Spending too much time on it can affect our **productivity and peace of mind**.
+- It can make it difficult to **sit and focus on one task for a long time**.
